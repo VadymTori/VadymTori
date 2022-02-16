@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vadym
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m already finished my self trainings of QA (creation of documantation, theory, bug cycleб etc...)
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, Pythin
+- 💞️ I’m already course of QA (creation of documantation, theory, bug cycle, etc...)
+- My website portfolio https://vadym-ivanov-rezume.netlify.app/
 - 📫 Contact me on my e-mail ivanovvad90 @ gmail.com
-
